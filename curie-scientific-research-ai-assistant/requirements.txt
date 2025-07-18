@@ -1,5 +1,5 @@
 pip>=24.0
-streamlit==1.27.0
+streamlit>=1.30.0
 pillow>=10.4.0
 numpy
 PyMuPDF==1.22.3
