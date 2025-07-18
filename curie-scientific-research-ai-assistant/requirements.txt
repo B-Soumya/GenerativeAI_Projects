@@ -4,4 +4,4 @@ numpy==1.26.4
 PyMuPDF==1.22.3
 faiss-cpu==1.7.4
 sentence-transformers==2.2.2
-googlesearch==1.2.3
+googlesearch-python==1.1
