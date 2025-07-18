@@ -1,6 +1,6 @@
 streamlit
-transformers
-sentence-transformers
-PyMuPDF
-faiss-cpu
-googlesearch-python==1.1.0
+numpy
+PyMuPDF==1.22.3
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+googlesearch-py==1.1
