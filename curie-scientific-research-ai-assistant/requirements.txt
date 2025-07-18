@@ -3,5 +3,4 @@ transformers
 sentence-transformers
 PyMuPDF
 faiss-cpu
-scikit-learn
-google-search
+googlesearch-python==1.1.0
