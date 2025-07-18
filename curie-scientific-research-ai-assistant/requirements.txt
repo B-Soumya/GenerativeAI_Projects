@@ -4,4 +4,4 @@ sentence-transformers
 PyMuPDF
 faiss-cpu
 scikit-learn
-dogs
+google-search
