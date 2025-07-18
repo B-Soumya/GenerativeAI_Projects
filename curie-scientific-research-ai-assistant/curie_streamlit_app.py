@@ -1,3 +1,5 @@
+
+# ----------------- Install and import libraries -----------------
 import streamlit as st
 import fitz  # PyMuPDF
 import numpy as np
