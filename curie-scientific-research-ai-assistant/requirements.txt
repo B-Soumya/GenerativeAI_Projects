@@ -1,7 +1,8 @@
+pip>=24.0
 streamlit==1.27.0
 pillow>=10.4.0
 numpy
 PyMuPDF==1.22.3
 faiss-cpu==1.7.4
 sentence-transformers==2.2.2
-googlesearch-py==1.1
+googlesearch-python==1.1
